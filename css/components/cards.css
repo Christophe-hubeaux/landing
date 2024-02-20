@@ -1,0 +1,22 @@
+.card-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.card-item {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid rgb(199, 192, 192);
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgb(199, 192, 192)
+}
+
+.card-item-img {
+    width: 150px;
+}
+
+.card-item p {
+    font-size: 14px;
+}
